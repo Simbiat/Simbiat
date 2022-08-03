@@ -27,8 +27,6 @@
 <p align='center' >
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Simbiat&count_private=true&show_icons=true&include_all_commits=true&theme=onedark" height=200></a>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simbiat&count_private=true&show_icons=true&include_all_commits=true&theme=onedark" height=200></a>
-    <br>
-    ⚡ Fun fact: I am open to donations at <a href="https://www.paypal.com/paypalme/Simbiat" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
  </p>
 <!--
 **Simbiat/Simbiat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
