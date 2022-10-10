@@ -1,6 +1,6 @@
 ### Hi, I'm Dmitry! 👋
 
-- 🔭 I’m currently refactoring my [website](https://www.simbiat.ru) both in terms of backend and frontend. You can check current code in [repository](https://github.com/Simbiat/simbiat.ru).
+- 🔭 I’m currently refactoring my [website](https://www.simbiat.dev) both in terms of backend and frontend. You can check current code in [repository](https://github.com/Simbiat/simbiat.ru).
 - 🌱 I’m currently learning a lot of different stuff mainly about UI/UX design (including colors, fonts, general usability) and project management.
 - 🤔 I’m looking for help with getting into Game Development. My current "expert" [skills](https://app.pluralsight.com/profile/Simbiat) are currently more alligned with Web Development, but I do have some skills useful for other tech and even some managerial roles. So if you are from a Game Development company and need someone for User Support (preferably tech), Project Management, Community Management, Testing, Game Design (preferably narrative), Web Development or something else interesting...
 - 📫 You can contact me via:
