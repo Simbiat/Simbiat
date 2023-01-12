@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently refactoring my [website](https://www.simbiat.dev) both in terms of backend and frontend. You can check current code in [repository](https://github.com/Simbiat/simbiat.ru).
 - 🌱 I’m currently learning a lot of different stuff mainly about UI/UX design (including colors, fonts, general usability) and project management.
-- 🤔 I’m looking for help with getting into Game Development. My current "expert" [skills](https://app.pluralsight.com/profile/Simbiat) are currently more alligned with Web Development, but I do have some skills useful for other tech and even some managerial roles. So if you are from a Game Development company and need someone for User Support (preferably tech), Project Management, Community Management, Testing, Game Design (preferably narrative), Web Development or something else interesting...
+- 🤔 I’m looking for help with getting into Game Development. My current "expert" [skills](https://app.pluralsight.com/profile/Simbiat) are more alligned with Web Development, but I do have some skills useful for other tech and even some managerial roles. So if you are from a Game Development company and need someone for User Support (preferably tech), Project Management, Community Management, Testing, Game Design (preferably narrative), Web Development or something else interesting...
 - 📫 You can contact me via:
 <p align='center' >
       <a href="https://www.linkedin.com/in/simbiat19/" target="_blank">
@@ -24,10 +24,6 @@
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
       </a>
 </p>
-<p align='center' >
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Simbiat&count_private=true&show_icons=true&include_all_commits=true&theme=onedark" height=200></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simbiat&count_private=true&show_icons=true&include_all_commits=true&theme=onedark" height=200></a>
- </p>
 <!--
 **Simbiat/Simbiat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
